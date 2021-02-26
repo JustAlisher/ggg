@@ -1,0 +1,11 @@
+{"ads":
+[{"adId":4,"priceForMeter":15000,"adTitle":"Самый лучший ремонт в городе","city":"Астана","name":"Temir","surname":"Shaimerden"},
+  {"adId":5,"priceForMeter":20000,"adTitle":"Самый лучший ремонт в Алмате","city":"Алматы","name":"Alish","surname":"Kenzhebayev"},
+  {"adId":6,"priceForMeter":12000,"adTitle":"Ремонт недорого","city":"Астана","name":"Maha","surname":"Magauin"},
+  {"adId":7,"priceForMeter":12000,"adTitle":"Ремонт недорого","city":"Астана","name":"Abl","surname":"Dosmyrzayev"},
+  {"adId":8,"priceForMeter":14000,"adTitle":"Качественный ремонт от души душевно в душу","city":"Астана","name":"Nurzhik","surname":"Sattybayeva"},
+  {"adId":9,"priceForMeter":900000,"adTitle":"Качественный ремонт от души душевно в душу","city":"Астана","name":"Alish","surname":"Dardanbayev"},
+  {"adId":10,"priceForMeter":900000,"adTitle":"Качественный ремонт от души душевно в душу","city":"Астана","name":"Alish","surname":"Dardanbayev"},
+  {"adId":11,"priceForMeter":25000,"adTitle":"ты петушара","city":"Астана","name":"Alish","surname":"Dardanbayev"},
+  {"adId":12,"priceForMeter":25000,"adTitle":"ты петушара","city":"Алматы","name":"Alish","surname":"Dardanbayev"}],
+"totalAds":3}
